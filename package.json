@@ -2,6 +2,9 @@
   "name": "webpack-practice",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
   "author": "jinho1011",
   "license": "MIT",
   "devDependencies": {
